@@ -1,4 +1,4 @@
-## **2️⃣ Job Portal Backend README**
+## **Job Portal Backend README**
 
 ```markdown
 # Job Portal Backend
