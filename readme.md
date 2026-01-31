@@ -1,7 +1,4 @@
-## **Job Portal Backend README**
-
-```markdown
-# Job Portal Backend
+## **Job Portal Backend**
 
 A full-featured backend for a job portal platform, supporting user management, job postings, filtering, pagination, and relationships between users and jobs.
 
@@ -25,7 +22,7 @@ A full-featured backend for a job portal platform, supporting user management, j
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/vrushabhbhotmange01-sudo/Job_Portal_Backend/blob/main/readme.md
 
 Install dependencies:
 npm install
@@ -59,15 +56,15 @@ Method	Endpoint	Description
 POST	   /api/jobs/                  -apply Apply to a job (Candidate)
 GET	   /api/jobs/applications      -Get all applications (Employer)
 
-How I Built It
+#**How I Built It**
 
-Designed a clean modular architecture: routes, controllers, models, and middleware separated for maintainability.0-h \kjhgfd/5gbik0le-based access control to secure endpoints.
+Designed a clean modular architecture: routes, controllers, models, and middleware separated for maintainability.
 Created pagination and filtering logic for scalable job listings.
 Established relationships in MongoDB to connect users, jobs, and applications.
 Integrated JWT authentication across all protected routes.
 Added comprehensive validation and error handling for smooth user experience.
 
-Impact
+#**Impact**
 
 Provides a scalable backend for any job portal platform.
 Enables secure role-based interactions between Employers and Candidates.
